@@ -1,4 +1,4 @@
-#include "BST.h"
+#include "AVL.h"
 
 int main() {
   BST<int>* bst = new BST<int>();
